@@ -16,6 +16,13 @@ WildRoute is an **eco-friendly and sustainable adventure travel planner** design
 - **Interactive Chatbot:** Engage with our chatbot for personalized travel recommendations.
 - **Sustainable Travel Tips:** Access valuable information and tips on sustainable travel practices.
 
+  ![Screenshot (354)](https://github.com/user-attachments/assets/7ed18669-c813-4ca7-b0b1-934314f1ee8c)
+  ![Screenshot (355)](https://github.com/user-attachments/assets/5d2876c4-98e8-42b5-a536-f432f273edfe)
+  ![Screenshot (356)](https://github.com/user-attachments/assets/3a1d373e-2954-41fd-848c-b909e03c5b4e)
+
+
+
+
 ## Tech Stack
 
 - **Flutter** for cross-platform mobile application development

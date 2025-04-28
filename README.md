@@ -35,12 +35,4 @@ git clone https://github.com/Sharika999/Wild_Route.git
 3.flutter pub get
 4.flutter run
 
-## Team Details
-This project was developed by the team Milky Way, consisting of:
-Sharika
-Vitesh
-Sneha
-Sitikanth
 
-## Acknowledgments
-We are excited to announce that WildRoute was awarded first place at Krithoathon 2.0, held at VNR VJIET on June 14th and 15th, 2024, organized by Krithomedh VNR VJIET. Our innovative approach to promoting sustainable travel impressed the jury from Intripid, whose excellent advice and invaluable feedback were crucial in achieving this.

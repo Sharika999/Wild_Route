@@ -23,6 +23,13 @@ WildRoute is an **eco-friendly and sustainable adventure travel planner** design
 - **Google Maps API** for navigation and location services
 - **Dart** for app programming
 
+## Team Details
+This project was developed by the team MILKY WAY, consisting of:
+Sharika,Vitesh,Sneha,Sitikanth
+
+## Acknowledgments
+We are excited to announce that WildRoute was awarded first place at Krithoathon 2.0, held at VNR VJIET on June 14th and 15th, 2024, organized by Krithomedh VNR VJIET. Our innovative approach to promoting sustainable travel impressed the jury from Intripid, whose excellent advice and invaluable feedback were crucial in achieving this.
+
 ## Installation
 
 To set up WildRoute locally on your machine, follow these steps:
